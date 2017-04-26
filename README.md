@@ -1,4 +1,4 @@
-##Sample Twitter Mining Visualizations
+#Sample Twitter Mining Visualizations
 
 This is just a little code I have worked on in my short time with R
 
